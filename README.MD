@@ -1,4 +1,4 @@
-# Find the best offer for your dream pice of tech!
+# Find the best offer for your dream piece of tech!
 Script written in python3 shows in terminal all PS5 offers from 3 most popular electromarkets from Poland:
 * RTVeuroAGD, 
 * MediaMarkt, 
